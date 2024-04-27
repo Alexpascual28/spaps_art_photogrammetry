@@ -73,8 +73,8 @@ Find more information (Spanish) in [Informe de Diseño de Software](https://gith
 
 | File                                                                                                                              | Summary                         |
 | ---                                                                                                                               | ---                             |
-| [LibXimc.m](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/LibXimc.m)                         | <code>► INSERT-TEXT-HERE</code> |
-| [PhotogrammetryRobot.m](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/PhotogrammetryRobot.m) | <code>► INSERT-TEXT-HERE</code> |
+| [LibXimc.m](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/LibXimc.m)                         | <code> </code> |
+| [PhotogrammetryRobot.m](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/PhotogrammetryRobot.m) | <code> </code> |
 
 </details>
 
@@ -82,7 +82,7 @@ Find more information (Spanish) in [Informe de Diseño de Software](https://gith
 
 | File                                                                                                                                                  | Summary                         |
 | ---                                                                                                                                                   | ---                             |
-| [Standa_8SMC4-5.inf](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/driver/Standa_8SMC4-5.inf) | <code>► INSERT-TEXT-HERE</code> |
+| [Standa_8SMC4-5.inf](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/driver/Standa_8SMC4-5.inf) | <code> </code> |
 
 </details>
 
@@ -90,9 +90,9 @@ Find more information (Spanish) in [Informe de Diseño de Software](https://gith
 
 | File                                                                                                                                  | Summary                         |
 | ---                                                                                                                                   | ---                             |
-| [test.txt](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/test.txt)       | <code>► INSERT-TEXT-HERE</code> |
-| [LICENSE.txt](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/LICENSE.txt) | <code>► INSERT-TEXT-HERE</code> |
-| [ximc.h](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/ximc.h)           | <code>► INSERT-TEXT-HERE</code> |
+| [test.txt](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/test.txt)       | <code> </code> |
+| [LICENSE.txt](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/LICENSE.txt) | <code> </code> |
+| [ximc.h](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/ximc.h)           | <code> </code> |
 
 </details>
 
@@ -100,7 +100,7 @@ Find more information (Spanish) in [Informe de Diseño de Software](https://gith
 
 | File                                                                                                                                        | Summary                         |
 | ---                                                                                                                                         | ---                             |
-| [libximc.def](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/win64/libximc.def) | <code>► INSERT-TEXT-HERE</code> |
+| [libximc.def](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/win64/libximc.def) | <code> </code> |
 
 </details>
 
@@ -108,8 +108,8 @@ Find more information (Spanish) in [Informe de Diseño de Software](https://gith
 
 | File                                                                                                                                                | Summary                         |
 | ---                                                                                                                                                 | ---                             |
-| [ximcm.h](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/win64/wrappers/matlab/ximcm.h) | <code>► INSERT-TEXT-HERE</code> |
-| [ximcm.m](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/win64/wrappers/matlab/ximcm.m) | <code>► INSERT-TEXT-HERE</code> |
+| [ximcm.h](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/win64/wrappers/matlab/ximcm.h) | <code> </code> |
+| [ximcm.m](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/win64/wrappers/matlab/ximcm.m) | <code> </code> |
 
 </details>
 
@@ -117,7 +117,7 @@ Find more information (Spanish) in [Informe de Diseño de Software](https://gith
 
 | File                                                                                                                                                      | Summary                         |
 | ---                                                                                                                                                       | ---                             |
-| [ximcnet.cs](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/win64/wrappers/csharp/ximcnet.cs) | <code>► INSERT-TEXT-HERE</code> |
+| [ximcnet.cs](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/win64/wrappers/csharp/ximcnet.cs) | <code> </code> |
 
 </details>
 
@@ -125,7 +125,7 @@ Find more information (Spanish) in [Informe de Diseño de Software](https://gith
 
 | File                                                                                                                                                            | Summary                         |
 | ---                                                                                                                                                             | ---                             |
-| [pyximc.py](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/crossplatform/wrappers/python/pyximc.py) | <code>► INSERT-TEXT-HERE</code> |
+| [pyximc.py](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/crossplatform/wrappers/python/pyximc.py) | <code> </code> |
 
 </details>
 
@@ -133,7 +133,7 @@ Find more information (Spanish) in [Informe de Diseño de Software](https://gith
 
 | File                                                                                                                                        | Summary                         |
 | ---                                                                                                                                         | ---                             |
-| [libximc.def](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/win32/libximc.def) | <code>► INSERT-TEXT-HERE</code> |
+| [libximc.def](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/win32/libximc.def) | <code> </code> |
 
 </details>
 
@@ -141,7 +141,7 @@ Find more information (Spanish) in [Informe de Diseño de Software](https://gith
 
 | File                                                                                                                                                | Summary                         |
 | ---                                                                                                                                                 | ---                             |
-| [ximcm.h](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/win32/wrappers/matlab/ximcm.h) | <code>► INSERT-TEXT-HERE</code> |
+| [ximcm.h](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/win32/wrappers/matlab/ximcm.h) | <code> </code> |
 
 </details>
 
@@ -149,7 +149,7 @@ Find more information (Spanish) in [Informe de Diseño de Software](https://gith
 
 | File                                                                                                                                                  | Summary                         |
 | ---                                                                                                                                                   | ---                             |
-| [ximc.pas](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/win32/wrappers/delphi/ximc.pas) | <code>► INSERT-TEXT-HERE</code> |
+| [ximc.pas](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/win32/wrappers/delphi/ximc.pas) | <code> </code> |
 
 </details>
 
@@ -157,7 +157,7 @@ Find more information (Spanish) in [Informe de Diseño de Software](https://gith
 
 | File                                                                                                                                                      | Summary                         |
 | ---                                                                                                                                                       | ---                             |
-| [ximcnet.cs](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/win32/wrappers/csharp/ximcnet.cs) | <code>► INSERT-TEXT-HERE</code> |
+| [ximcnet.cs](https://github.com/Alexpascual28/spaps_art_photogrammetry.git/blob/master/RobotApp/libximc-2.13.3-all/ximc/win32/wrappers/csharp/ximcnet.cs) | <code> </code> |
 
 </details>
 
